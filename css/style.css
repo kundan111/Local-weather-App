@@ -1,0 +1,17 @@
+body{
+
+background-image: url("https://images.unsplash.com/photo-1459413368754-f3fec1b2e40a?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=fuexdakgqmm-jorge-vidal.jpg&s=1c4a4f4ca83b7045c468dc2ee26a161d");
+
+
+}
+
+#main {
+  position: absolute;
+  width: 400px;
+  height: 300px;
+  z-index: 10;
+  top: 40%;
+  left: 50%;
+  margin: -50px 0 0 -200px;
+
+}
